@@ -1,7 +1,9 @@
 # My DataScience Projects
 Here you can see my projects of DataScience.
 
-## Exploratory data analysis
+## Data analysis
+
+## Exploratory data analysis (EDA)
 Project Description: You have been invited to participate in one of the projects of UNICEF - an international subdivision of the United Nations whose mission is to improve the well-being of children around the world.
 
 Goal: To track the impact of the living conditions of schoolchildren aged 15 to 22 on their math performance to identify students at risk at an early stage.
@@ -63,3 +65,8 @@ decline_app_cnt - number of applications refused in the past;
 good_work - good job presence flag;
 bki_request_cnt - number of requests to the credit bureaus;
 ... 19. default - presence of default.
+
+## Car price prediction
+https://github.com/NatalieBright/skillfactory_rds/tree/master/skillfactory_rds3_car_price_prediction
+
+
