@@ -2,9 +2,9 @@
 Here you can see my projects of Data Science.
 
 [Data analysis](https://github.com/DariaMishina/skillfactory_rds/tree/master/module_1)
-
-Preliminary data analysis based on the IMBD site dataset
 ---
+Preliminary data analysis based on the IMBD site dataset
+
 
 [EDA](https://github.com/DariaMishina/skillfactory_rds/tree/master/module_2)
 
