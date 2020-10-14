@@ -1,5 +1,5 @@
 # My Data Science Projects
-Here you can see my projects of Data Science.
+Here you can see my DS projects 
 
 [Data analysis](https://github.com/DariaMishina/skillfactory_rds/tree/master/module_1)
 ---
