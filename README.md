@@ -26,7 +26,7 @@ Scoring model for predicting the default of a bank client (Scalers, Transforming
 
 [Car price prediction](https://github.com/DariaMishina/skillfactory_rds/tree/master/module_5)
 ---
-Car rice prediction model based on cars features (BeautifulSoup for parcing, CatBoost, DecisionTree, RandomForest, ExtraTrees, Bagging, stacking)
+Car price prediction model based on cars features (BeautifulSoup for parcing, CatBoost, DecisionTree, RandomForest, ExtraTrees, Bagging, stacking)
 
 
 
