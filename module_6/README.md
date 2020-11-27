@@ -22,7 +22,7 @@
 
 Ваш никнейм на Kaggle: https://www.kaggle.com/natalievold
 
-Модель загружена на heroku и доступна по веб-адресу https://hidden-oasis-83965.herokuapp.com/
+Модель загружена на heroku и доступна [тут](https://lit-refuge-86212.herokuapp.com/)
 
 В описании ответьте на вопросы:
 
