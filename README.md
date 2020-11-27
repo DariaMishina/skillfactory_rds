@@ -30,3 +30,8 @@ Car price prediction model based on cars features (BeautifulSoup for parcing, Ca
 
 
 
+[Recommendation system](https://github.com/DariaMishina/skillfactory_rds/tree/master/module_6)
+---
+It was necessary to implement an algorithm for creation of recommendation system based on the history of user ratings for products, as well as build a prototype of a working service.
+
+After a series of experiments, LightFM was chosen as an algorithm for building recommendations, which gives the best value of the target metric. FastAi and suprise were tested as alternatives, streamlight and heruku were used for prototype
