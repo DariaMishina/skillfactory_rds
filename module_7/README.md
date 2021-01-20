@@ -1,23 +1,26 @@
 __RDS7 Ford vs Ferrari (Car classification)__
 
 _Цель проекта:_ 
+
 Классификация автомобилей по фотографиям.
 
 [Ссылка](https://www.kaggle.com/c/sf-dl-car-classification) на соревнование на платформе Kaggle.
+
 Дан тренировочный датасет с фотографиями автомобилей, разделенный на 10 классов.
+
 Дан тестовый датасет с фотографиями для определения классов автомобилей.
 
 _Были использоваться такие приемы, как:_
 
-аугментация при помощи библиотеки albumentations
-политика One Cycle Policy для Learning Rate
-аугментация изображений из тестовой выборки - test time augmentation (TTA)
-подбор других переменных (размер картинки, батч и так далее)
-разные способы заполнения пропусков c помощью Keras ImageDataGenerator
-другие архитектуры сетей (EfficientNetB4, EfficientNetB6, InceptionResNetV2)
-другие функции callback в Keras
-эксперименты с архитектурой “головы”
-finetuning и перенос обучения.
+- аугментация при помощи библиотеки albumentations
+- политика One Cycle Policy для Learning Rate
+- аугментация изображений из тестовой выборки - test time augmentation (TTA)
+- подбор других переменных (размер картинки, батч и так далее)
+- разные способы заполнения пропусков c помощью Keras ImageDataGenerator
+- другие архитектуры сетей (EfficientNetB4, EfficientNetB6, InceptionResNetV2)
+- другие функции callback в Keras
+- эксперименты с архитектурой “головы”
+- finetuning и перенос обучения.
 
 В отдельной папке лежит обертка модели на Flask.
 
