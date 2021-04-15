@@ -41,3 +41,10 @@ After a series of experiments, LightFM was chosen as an algorithm for building r
 [Сar classification by photos](https://github.com/DariaMishina/skillfactory_rds/tree/master/module_7)
 ---
 Car classification model (fine tuning &transfer learning, Xception, EfficientNetB4, EfficientNetB6, InceptionResNetV2, albumentations, One Cycle Policy for Learning Rate, test time augmentation (TTA))
+
+
+
+[Car price prediction](https://github.com/DariaMishina/skillfactory_rds/tree/master/module_8)
+---
+Car price prediction model based on different ML and DL models using different types of data. (NLP, multiple inputs, feature inputs)
+
